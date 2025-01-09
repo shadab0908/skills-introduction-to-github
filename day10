@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic tags</title>
+</head>
+
+<body>
+<section>
+    <header>
+        this is the  only header which is always there to head up everyone
+
+    </header>
+    <hr>
+
+    this isi not the headerline
+<h1> This is header h1</h1>
+
+</section>
+
+<aside>
+    thisis ithisisand and this is that ohk
+    <br>
+    lets asume that we have two balls in our hands and we are trying to find the third balll present inside the sack 
+    <br>which is owned by the donald taatya ofcourse (donald trumpppp) ;]
+    <br>
+    
+    this is side tag</aside>
+ <label for="text "> Shadab.ac.in :    : </label><input type="text" pattern="[a-z]+ @[a-z0-9]+/.+ com">
+
+
+ <!-- 
+  lets start tHe CSS
+ -->
+  <br><br><hr><hr> 
+  
+  <h4 style=" background: rgb(117, 42, 171);;color: rgb(374, 1234, 781);">
+
+    This is heading h4 and the example of inline css
+
+  </h4>
+<p>thsi is the example paragraph</p>
+
+  <style> p{
+background: #000; color: aliceblue;
+  }
+  </style>
+<style>
+    body{
+        background: #523737;
+        border: #000;
+    }
+</style>
+
+
+<table border="3">
+    <tr>
+        <td>
+            td1
+        </td>
+        <td>
+            td2
+        </td>
+    </tr>
+    
+    <tr>
+        <td>
+            td1
+        </td>
+        <td>
+            td2
+        </td>
+    </tr>
+
+
+</table>
+<link rel="stylesheet"; href="style.css">
+    
+</body>
+</html>

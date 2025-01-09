@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Form</title>
+
+</head>
+<body>
+    <form >
+ <!-- forms -->
+    <label for="text">Enter UserName :</label>
+     <input type="text" placeholder="userName of the user "/>
+
+<br><hr>
+    <label for="password">Enter password :</label>  
+    <input type="password" placeholder="PassWord"> 
+<br> <hr>
+    <label for="gender"> Enter Gender :</label>
+    
+    <input type="radio" name="gender">male</input>
+
+    <input type="radio" name="gender">female</input>
+
+    <input type="radio" name="gender">prefer not to say</input>
+ <br>
+<hr>
+<label for="checkbox"> Select Language :</label>
+ <input type="checkbox" name="Language" >Java</input>
+ <input type="checkbox" name="Language" >C++</input>
+ <input type="checkbox" name="Language" >Python</input>
+ <input type="checkbox" name="Language" >R</input>
+    </form>
+    <hr>
+
+
+
+    
+   
+
+</body>
+</html>
